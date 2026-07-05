@@ -2,10 +2,10 @@
 
 # Dump the ITE IT5571 configuration register space by Logical Device Number (LDN)
 # The dumped values are configuration data only. There is no real-time sensor
-# data here. There are mostly registers containing bit fields of various EC chip
-# settings and, some cases, register and bus addresses needed to access other
-# chip features that may be of interest. You may some changes from one boot to
-# another but once booted the values set generally do not change.
+# data here. These are mostly registers containing bit fields of various EC chip
+# settings and, in some cases, register and bus addresses needed to access other
+# chip features that may be of interest. You may see some changes from one boot
+# to another but once booted the values set generally do not change.
 #
 # Written specifically for the Intel NUC 12 Extreme (NUC12DCMi9) Compute
 # Element motherboard with Intel 12th gen Alder Lake Core i9 12900 CPU and
